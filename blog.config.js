@@ -211,11 +211,11 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '带我走',
-      artist: '秦岚',
-      url: 'https://music.163.com/#/song?id=28461114',
+      name: '想念拟人化',
+      artist: '吴炳文',
+      url: 'https://music.163.com/#/song?id=1969874376',
       cover:
-            'http://p2.music.126.net/m9Ji6UvvRK196dopQpXvgA==/6012129580987019.jpg?param=130y130'
+            'http://p1.music.126.net/bW5V2Z8SoMCeRrLXtv6uwg==/109951167754812382.jpg'
     },
     {
       name: '王都グランセル',
